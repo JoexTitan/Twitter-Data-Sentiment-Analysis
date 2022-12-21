@@ -1,7 +1,6 @@
 # Twitter Data Sentiment Analysis
 
-
-
+<img src="https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-1-4842-7182-7_1/MediaObjects/511918_1_En_1_Fig1_HTML.jpg" width="950" height="300" />
 
 
 ## Introduction
@@ -19,9 +18,10 @@ afterwhich you will be able to interact with twitter API.
 We will be using `Scrapy 2.7.1` in order to crawl through the the desired records and `google-cloud-language` library to enhance sentiment accuracy throughout the NLP analysis.
 
 
-
-
-
+<img src="https://github.com/JoexTitan/Social-Media-Sentiment-Analysis/blob/master/presentation_visuals/SSIS01.jpg" width="900" height="700" />
+<img src="https://github.com/JoexTitan/Social-Media-Sentiment-Analysis/blob/master/presentation_visuals/SSIS02.jpg" width="900" height="670" />
+<img src="https://github.com/JoexTitan/Social-Media-Sentiment-Analysis/blob/master/presentation_visuals/SSIS03.jpg" width="900" height="650" />
+<img src="https://github.com/JoexTitan/Social-Media-Sentiment-Analysis/blob/master/presentation_visuals/SSIS05.jpg" width="900" height="710" />
 
 
 
@@ -30,17 +30,16 @@ Prior to removing Twitter duplicates, we must first convert our data from JSON t
 
 The `twitter_batch_prep` scripts will utilize multi-threading to optimize the I/O processes, the results will be saved in a csv file so that you can merge them later on your own.
 
-
-
-
-
-
+<img src="https://github.com/JoexTitan/Social-Media-Sentiment-Analysis/blob/master/presentation_visuals/schema01.jpg" width="900" height="750" />
 
 
 
 ## Power BI (Reporting)
 
-
+<img src="https://github.com/JoexTitan/Social-Media-Sentiment-Analysis/blob/master/presentation_visuals/vis_gif_02.gif"/>
+<img src="https://github.com/JoexTitan/Social-Media-Sentiment-Analysis/blob/master/presentation_visuals/vis_gif_04.gif"/>
+<img src="https://github.com/JoexTitan/Social-Media-Sentiment-Analysis/blob/master/presentation_visuals/vis_gif_03.gif"/>
+<img src="https://github.com/JoexTitan/Social-Media-Sentiment-Analysis/blob/master/presentation_visuals/vis_gif_01.gif"/>
 
 
 
