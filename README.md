@@ -20,8 +20,8 @@ We will be using `Scrapy 2.7.1` in order to crawl through the the desired record
 
 <img src="https://github.com/JoexTitan/Social-Media-Sentiment-Analysis/blob/master/presentation_visuals/SSIS01.jpg" width="900" height="700" />
 <img src="https://github.com/JoexTitan/Social-Media-Sentiment-Analysis/blob/master/presentation_visuals/SSIS02.jpg" width="900" height="670" />
-<img src="https://github.com/JoexTitan/Social-Media-Sentiment-Analysis/blob/master/presentation_visuals/SSIS03.jpg" width="900" height="620" />
-<img src="https://github.com/JoexTitan/Social-Media-Sentiment-Analysis/blob/master/presentation_visuals/SSIS05.jpg" width="900" height="710" />
+<img src="https://github.com/JoexTitan/Social-Media-Sentiment-Analysis/blob/master/presentation_visuals/SSIS03.jpg" width="915" height="620" />
+<img src="https://github.com/JoexTitan/Social-Media-Sentiment-Analysis/blob/master/presentation_visuals/SSIS05.jpg" width="900" height="690" />
 
 
 
